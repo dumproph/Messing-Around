@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Experimentation
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+My first mod! Just adds in a new civ, Antares.
